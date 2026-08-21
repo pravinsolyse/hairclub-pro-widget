@@ -1,0 +1,1 @@
+{ "name": "hairclub-pro-widget", "scripts": { "build": "cd app && npm install && npm run build && cd ../server && npm install", "start": "cd server && node index.js" } }
